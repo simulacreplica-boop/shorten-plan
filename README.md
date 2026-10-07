@@ -1,3 +1,5 @@
+<img src="icon.png" alt="Shorten Edit" width="128" height="128">
+
 # Shorten Edit
 
 영상 제작 현장을 위한 문서 작성 데스크톱 앱입니다. [Shorten](https://shorten.shorten-crew.workers.dev)의 프로젝트와 연결됩니다.
