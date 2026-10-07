@@ -13,9 +13,11 @@
 
 | 파일 | 대상 |
 |---|---|
-| `Shorten-Edit-…-mac-arm64.dmg` | Apple 실리콘 맥 (M1 이후) |
-| `Shorten-Edit-…-mac-x64.dmg` | 인텔 맥 |
-| `Shorten-Edit-…-win-x64.exe` | 윈도우 10 / 11 (64비트) |
+| [`Shorten-Edit-mac-arm64.dmg`](https://github.com/simulacreplica-boop/shorten-edit/releases/latest/download/Shorten-Edit-mac-arm64.dmg) | Apple 실리콘 맥 (M1 이후) |
+| [`Shorten-Edit-mac-x64.dmg`](https://github.com/simulacreplica-boop/shorten-edit/releases/latest/download/Shorten-Edit-mac-x64.dmg) | 인텔 맥 |
+| [`Shorten-Edit-win-x64.exe`](https://github.com/simulacreplica-boop/shorten-edit/releases/latest/download/Shorten-Edit-win-x64.exe) | 윈도우 10 / 11 (64비트) |
+
+설치한 뒤에는 **자동으로 업데이트**됩니다. 새 버전이 준비되면 앱 왼쪽 위에 **재시작해서 업데이트** 버튼이 나타납니다. (맥은 앱을 응용 프로그램 폴더에 옮겨 둬야 합니다.)
 
 ## 처음 열 때
 
